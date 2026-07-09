@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base target="_top">
+  <title>Sistem Pelaporan Al-Quran</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Selamat Datang ke Sistem Pelaporan Al-Quran</h1>
+  <p>Sistem ini sedang dalam proses penyambungan.</p>
+</body>
+</html>
